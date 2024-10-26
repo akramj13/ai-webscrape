@@ -5,7 +5,7 @@ Commands to run before using the webste:
 
 ```
 python -m venv dependencies
-source venv/bin/activate
+source dependencies/bin/activate
 pip install -r required.txt
 ```
 
