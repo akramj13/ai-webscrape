@@ -9,3 +9,6 @@ source venv/bin/activate
 pip install -r required.txt
 ```
 
+Requires:
+Have Version: 130.0.6723.69 (r1356013) of Chrome
+
